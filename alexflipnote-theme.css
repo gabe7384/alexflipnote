@@ -12,4 +12,9 @@
     --light-secondary: #ecf0f1;
     --notif: #7a78bd;
     --theme-logo: 1;
-  }
+}
+.background-1QDuV2 {
+    border-radius: 8px;
+    background-color: #121212;
+    padding: 16px;
+}
