@@ -18,3 +18,19 @@
     background-color: #121212;
     padding: 16px;
 }
+.fieldList-21DyL8 {
+    border-radius: 8px;
+    background-color: #323232;
+    padding: 16px;
+    margin-top: 16px;
+}
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+    color: #fff;
+    background-color: #7a78bd;
+}
+.wrapper-3WhCwL {
+    color: #b3aeff;
+}
+.theme-dark {
+    --scrollbar-auto-track: #2e2e2e !important;
+}
