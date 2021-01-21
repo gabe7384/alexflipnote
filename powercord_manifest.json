@@ -1,1 +1,8 @@
-
+{
+    "name": "",
+    "version": "1.0",
+    "license": "UNKNOWN",
+    "theme": "alexflipnote-theme.css",
+    "author": "gaybe#1897",
+    "description": "This is originally alexflipnotes theme but more recently updated"
+}
