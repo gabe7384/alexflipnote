@@ -34,3 +34,6 @@
 .theme-dark {
     --scrollbar-auto-track: #2e2e2e !important;
 }
+.theme-dark div[class*="footer-"] {
+    background-color: #373737;
+}
