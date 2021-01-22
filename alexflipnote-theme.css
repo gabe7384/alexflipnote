@@ -37,3 +37,8 @@
 .theme-dark div[class*="footer-"] {
     background-color: #373737;
 }
+.container-2fRDfG {
+    background: #242424;
+    border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+}
